@@ -1,0 +1,224 @@
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.exe
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.deps.json
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.runtimeconfig.json
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.AssemblyReference.cache
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfoInputs.cache
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfo.cs
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.CoreCompileInputs.cache
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceSho.44522E1A.Up2Date
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\refint\SpaceShooterGame.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.genruntimeconfig.cache
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\obj\Debug\net6.0-windows\ref\SpaceShooterGame.dll
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\button.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShip.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonal.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonalRight.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipOne.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipProt.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShot.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShotRight.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\gameBackGround.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\GameBar.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\IconUltimate.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\mainMenu.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOne.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOneShield.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShot.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShotRight.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\Shield_Icon.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\ship.xnb
+C:\Users\nikol\OneDrive - УрФУ\Учеба 2 семестр\Программирование\SpaceShooterGame\bin\Debug\net6.0-windows\Content\shipProt.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\button.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShip.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonal.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonalRight.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipOne.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipProt.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShot.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShotRight.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\gameBackGround.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\GameBar.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\IconUltimate.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\mainMenu.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOne.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOneShield.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShot.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShotRight.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\Shield_Icon.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\ship.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\shipProt.xnb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.exe
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.deps.json
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.runtimeconfig.json
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.AssemblyReference.cache
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfoInputs.cache
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfo.cs
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.CoreCompileInputs.cache
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceSho.44522E1A.Up2Date
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\refint\SpaceShooterGame.dll
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.genruntimeconfig.cache
+C:\учеба\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\ref\SpaceShooterGame.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\button.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShip.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonal.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonalRight.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipOne.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipProt.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShot.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShotRight.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\gameBackGround.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\GameBar.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\IconUltimate.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\mainMenu.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOne.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOneShield.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShot.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShotRight.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\Shield_Icon.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\ship.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\shipProt.xnb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.exe
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.deps.json
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.runtimeconfig.json
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.AssemblyReference.cache
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfoInputs.cache
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfo.cs
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.CoreCompileInputs.cache
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceSho.44522E1A.Up2Date
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\refint\SpaceShooterGame.dll
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.genruntimeconfig.cache
+C:\учеба\Программирование\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\ref\SpaceShooterGame.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\button.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShip.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonal.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipDiagonalRight.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipOne.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShipProt.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShot.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\enemyShotRight.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\gameBackGround.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\GameBar.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\IconUltimate.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\mainMenu.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOne.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerOneShield.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShot.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\playerShotRight.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\Shield_Icon.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\ship.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Content\shipProt.xnb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.exe
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.deps.json
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.runtimeconfig.json
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.AssemblyReference.cache
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfoInputs.cache
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.AssemblyInfo.cs
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.csproj.CoreCompileInputs.cache
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceSho.44522E1A.Up2Date
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\refint\SpaceShooterGame.dll
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.pdb
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\SpaceShooterGame.genruntimeconfig.cache
+C:\учеба\Программирование\Второй семестр\Игра\SpaceShooterGame\SpaceShooterGame\obj\Debug\net6.0-windows\ref\SpaceShooterGame.dll
